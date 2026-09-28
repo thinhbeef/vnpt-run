@@ -1,0 +1,74 @@
+[
+  {
+    "id": "wifi",
+    "name": "VNPT WiFi",
+    "shortDescription": "Giải pháp WiFi tốc độ cao thế hệ mới, phủ sóng rộng khắp cho hộ gia đình và doanh nghiệp.",
+    "category": "Viễn thông cá nhân & gia đình",
+    "colorTheme": "#0066cc",
+    "difficulty": 1
+  },
+  {
+    "id": "fibervnn",
+    "name": "FiberVNN",
+    "shortDescription": "Đường truyền Internet cáp quang băng thông rộng, tốc độ siêu tốc và ổn định hàng đầu Việt Nam.",
+    "category": "Hạ tầng mạng",
+    "colorTheme": "#0284c7",
+    "difficulty": 1
+  },
+  {
+    "id": "vinaphone",
+    "name": "VinaPhone",
+    "shortDescription": "Mạng di động 4G/5G phủ sóng toàn quốc, dung lượng data khổng lồ và dịch vụ chăm sóc tận tâm.",
+    "category": "Di động viễn thông",
+    "colorTheme": "#0369a1",
+    "difficulty": 1
+  },
+  {
+    "id": "ioffice",
+    "name": "VNPT iOffice",
+    "shortDescription": "Hệ thống quản lý văn bản và điều hành điện tử thông minh, tối ưu quy trình xử lý công việc.",
+    "category": "Chuyển đổi số văn phòng",
+    "colorTheme": "#2563eb",
+    "difficulty": 2
+  },
+  {
+    "id": "ilis",
+    "name": "VNPT iLIS",
+    "shortDescription": "Hệ thống thông tin quản lý đất đai đa mục tiêu, chuyển đổi số ngành quản lý tài nguyên.",
+    "category": "Chính quyền số & Tài nguyên",
+    "colorTheme": "#0d9488",
+    "difficulty": 3
+  },
+  {
+    "id": "invoice",
+    "name": "Hóa đơn điện tử (VNPT Invoice)",
+    "shortDescription": "Giải pháp khởi tạo, lập, phát hành và lưu trữ hóa đơn điện tử an toàn, tuân thủ chuẩn Tổng cục Thuế.",
+    "category": "Doanh nghiệp số",
+    "colorTheme": "#059669",
+    "difficulty": 2
+  },
+  {
+    "id": "smartca",
+    "name": "Chữ ký số (VNPT SmartCA)",
+    "shortDescription": "Dịch vụ chứng thực chữ ký số từ xa an toàn tuyệt đối, ký số mọi lúc mọi nơi trên thiết bị di động.",
+    "category": "Bảo mật & Chứng thực số",
+    "colorTheme": "#7c3aed",
+    "difficulty": 2
+  },
+  {
+    "id": "cloud",
+    "name": "VNPT Cloud",
+    "shortDescription": "Hạ tầng điện toán đám mây đạt tiêu chuẩn quốc tế Tier 3, an toàn, linh hoạt và tối ưu chi phí.",
+    "category": "Hạ tầng số",
+    "colorTheme": "#0284c7",
+    "difficulty": 2
+  },
+  {
+    "id": "egov",
+    "name": "Chính quyền số (VNPT eGov)",
+    "shortDescription": "Hệ sinh thái chính quyền điện tử toàn diện: Cổng DVC, Một cửa điện tử, Trục liên thông văn bản.",
+    "category": "Chính phủ số",
+    "colorTheme": "#b91c1c",
+    "difficulty": 3
+  }
+]

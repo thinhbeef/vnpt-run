@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "LEVEL 1: VNPT OFFICE",
+    "difficulty": "Easy",
+    "worldLength": 3600
+  },
+  {
+    "id": 2,
+    "title": "LEVEL 2: DIGITAL CITY",
+    "difficulty": "Medium",
+    "worldLength": 4800
+  },
+  {
+    "id": 3,
+    "title": "LEVEL 3: DIGITAL GOVERNMENT",
+    "difficulty": "Hard",
+    "worldLength": 5600
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "id": "wifi_001",
+    "service": "wifi",
+    "question": "Chuẩn công nghệ WiFi nào đang được VNPT triển khai mang lại tốc độ vượt trội và khả năng xuyên tường tốt nhất?",
+    "options": ["WiFi 6 (802.11ax)", "WiFi 1 (802.11b)", "Bluetooth 4.0", "Dial-up 56K"],
+    "answer": 0,
+    "explanation": "WiFi 6 (802.11ax) là chuẩn công nghệ mới giúp mở rộng vùng phủ, tăng tốc độ truyền dữ liệu gấp nhiều lần và giảm thiểu độ trễ tối đa."
+  },
+  {
+    "id": "fibervnn_001",
+    "service": "fibervnn",
+    "question": "Dịch vụ Internet cáp quang băng rộng hàng đầu của VNPT có tên thương hiệu là gì?",
+    "options": ["FiberVNN", "VNPT Dial-up", "FiberCable", "VNPT FastNet"],
+    "answer": 0,
+    "explanation": "FiberVNN là dịch vụ truy cập Internet cáp quang tốc độ cao của VNPT với hạ tầng viễn thông vững chắc phủ khắp cả nước."
+  },
+  {
+    "id": "vinaphone_001",
+    "service": "vinaphone",
+    "question": "Khẩu hiệu (slogan) nổi tiếng gắn liền với thương hiệu mạng di động VinaPhone là gì?",
+    "options": ["Không ngừng vươn xa", "Hãy nói theo cách của bạn", "Kết nối tương lai", "Cùng bạn phát triển"],
+    "answer": 0,
+    "explanation": "\"VinaPhone - Không ngừng vươn xa\" là thông điệp mang tính biểu tượng đồng hành cùng hàng chục triệu thuê bao Việt Nam."
+  },
+  {
+    "id": "ioffice_001",
+    "service": "ioffice",
+    "question": "Hệ thống VNPT iOffice được thiết kế phục vụ mục đích chính nào sau đây?",
+    "options": [
+      "Quản lý văn bản, hồ sơ công việc và điều hành tác nghiệp điện tử không giấy tờ",
+      "Chơi game trực tuyến đối kháng",
+      "Sửa chữa phần cứng máy tính",
+      "Đặt vé máy bay du lịch"
+    ],
+    "answer": 0,
+    "explanation": "VNPT iOffice giúp các cơ quan, doanh nghiệp tin học hóa toàn diện quy trình xử lý văn bản, ký số văn bản và chỉ đạo điều hành."
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "VNPT Service Run",
+  "description": "Trò chơi 2D arcade runner và mini-game thử thách kiến thức dịch vụ viễn thông & chuyển đổi số VNPT",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
